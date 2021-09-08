@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Practicas_A/static/css/main.972e9195.chunk.css",
-    "main.js": "/Practicas_A/static/js/main.06b8e1e4.chunk.js",
-    "main.js.map": "/Practicas_A/static/js/main.06b8e1e4.chunk.js.map",
+    "main.js": "/Practicas_A/static/js/main.d2df5155.chunk.js",
+    "main.js.map": "/Practicas_A/static/js/main.d2df5155.chunk.js.map",
     "runtime-main.js": "/Practicas_A/static/js/runtime-main.8098cc7a.js",
     "runtime-main.js.map": "/Practicas_A/static/js/runtime-main.8098cc7a.js.map",
     "static/js/2.138fed76.chunk.js": "/Practicas_A/static/js/2.138fed76.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.8098cc7a.js",
     "static/js/2.138fed76.chunk.js",
     "static/css/main.972e9195.chunk.css",
-    "static/js/main.06b8e1e4.chunk.js"
+    "static/js/main.d2df5155.chunk.js"
   ]
 }
